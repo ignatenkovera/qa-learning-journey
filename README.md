@@ -18,7 +18,7 @@ This repository documents my journey learning QA Engineering, SQL, JavaScript, a
 - [x] SQL: WHERE, ORDER BY, constraints
 - [x] JavaScript: Variables and data types
 - [x] Created GitHub portfolio
-- [ ] Complete first EPAM module
+- [ ] Complete forth EPAM module
 
 ### 🛠️ Tools I'm Using:
 - **Learning Platforms:** EPAM Learn Portal, SQLBolt, SoloLearn
